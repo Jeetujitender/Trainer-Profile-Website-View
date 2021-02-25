@@ -1,0 +1,13 @@
+.container{
+    background-color: antiquewhite;
+    margin: 100px 200px 0px 200px;
+}
+p{
+    padding: 10px 150px 50px 150px;
+    text-align-last: center;
+}
+h2{
+    padding: 50px 150px 10px 150px;
+    text-align: center;
+    
+}
